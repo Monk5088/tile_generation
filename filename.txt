@@ -1,0 +1,3 @@
+C:\Digital_Histopathology\Tile_generation\TimestampsFolder\2021-07-04_22-08-50
+C:\Digital_Histopathology\Tile_generation\TimestampsFolder\2021-07-04_22-08-50\tiles
+C:\Digital_Histopathology\Tile_generation\TimestampsFolder\2021-07-04_22-08-50\outputtextfiles
